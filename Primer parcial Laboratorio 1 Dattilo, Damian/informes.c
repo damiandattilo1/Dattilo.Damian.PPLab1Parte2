@@ -18,9 +18,31 @@
 int imprimirMenuInformes();
 
 
+/** \brief muestra las bicicletas del color elegido por el usuario
+ *
+ * \param arreglo bicis
+ * \param tamaño arreglo de bicis
+ * \param arreglo tipos
+ * \param tamaño arreglo de tipos
+ * \param arreglo colores
+ * \param tamaño arreglo de colores
+ * \return -1 si error, 0 si ok
+ *
+ */
 
 int mostrarBiciXColor(eBici bicis[], int tamBici, eTipo tipos[], int tamTipo, eColor colores[], int tamCol);
 
+/** \brief muestra las bicicletas del tipo elegido por el usuario
+ *
+ * \param arreglo bicis
+ * \param tamaño arreglo de bicis
+ * \param arreglo tipos
+ * \param tamaño arreglo de tipos
+ * \param arreglo colores
+ * \param tamaño arreglo de colores
+ * \return -1 si error, 0 si ok
+ *
+ */
 int mostrarBiciXTipo(eBici bicis[], int tamBici, eTipo tipos[], int tamTipo, eColor colores[], int tamCol);
 
 
@@ -31,8 +53,45 @@ int mostrarBiciXTipo(eBici bicis[], int tamBici, eTipo tipos[], int tamTipo, eCo
  *
  */
 void menuInformes(eBici bicis[], int tamBici, eTrabajo trabajos[], int tamTrab, eTipo tipos[], int tamTipo, eColor colores[], int tamCol, eServicio servicios[], int tamServ);
+
+
+/** \brief muestra la bicileta de menor rodado
+ *
+ * \param arreglo bicis
+ * \param tamaño arreglo de bicis
+ * \param arreglo tipos
+ * \param tamaño arreglo de tipos
+ * \param arreglo colores
+ * \param tamaño arreglo de colores
+ * \return -1 si error, 0 si ok
+ *
+ */
 int menorRodado(eBici bicis[], int tamBici, eTipo tipos[], int tamTipo, eColor colores[], int tamCol);
+
+
+/** \brief cuenta las bicicletas de un color y tipo elegidos por el usuario
+ *
+ * \param arreglo bicis
+ * \param tamaño arreglo de bicis
+ * \param arreglo tipos
+ * \param tamaño arreglo de tipos
+ * \param arreglo colores
+ * \param tamaño arreglo de colores
+ * \return -1 si error, 0 si ok
+ *
+ */
+
 int contarColorTipo(eBici bicis[], int tamBici, eTipo tipos[], int tamTipo, eColor colores[], int tamCol);
+
+/** \brief muestra los colores de bicicletas mas elegidos
+ *
+ * \param arreglo bicis
+ * \param tamaño arreglo de bicis
+ * \param arreglo colores
+ * \param tamaño arreglo de colores
+ *
+ */
+
 void coloresElegidos(eBici bicis[], int tamBici, eColor colores[], int tamCol);
 
 //---------------------------------------------------------------------------------------------------
