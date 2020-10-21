@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1602683164 source:c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1 dattilo, damian\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"dataStore.h"
+	<string.h>
+	"bicicletas.h"
+	"validaciones.h"
+
+1602679632 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1 dattilo, damian\datastore.h
+
+1602679361 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1 dattilo, damian\bicicletas.h
+
+1602678575 source:c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1 dattilo, damian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+
+1602683670 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1 dattilo, damian\trabajos.h
+
+1602685334 source:c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1 dattilo, damian\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajos.h"
+	"bicicletas.h"
+	"validaciones.h"
+
+1602683164 source:c:\users\damia\documents\damian\programacion utn\primer parcial mejorado\primer parcial laboratorio 1 dattilo, damian\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"dataStore.h"
+	<string.h>
+	"bicicletas.h"
+	"validaciones.h"
+
+1602679632 c:\users\damia\documents\damian\programacion utn\primer parcial mejorado\primer parcial laboratorio 1 dattilo, damian\datastore.h
+
+1602679361 c:\users\damia\documents\damian\programacion utn\primer parcial mejorado\primer parcial laboratorio 1 dattilo, damian\bicicletas.h
+
+1602684857 source:c:\users\damia\documents\damian\programacion utn\primer parcial mejorado\primer parcial laboratorio 1 dattilo, damian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+
+1602683670 c:\users\damia\documents\damian\programacion utn\primer parcial mejorado\primer parcial laboratorio 1 dattilo, damian\trabajos.h
+
+1602685282 source:c:\users\damia\documents\damian\programacion utn\primer parcial mejorado\primer parcial laboratorio 1 dattilo, damian\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajos.h"
+	"bicicletas.h"
+	"validaciones.h"
+
+1602684268 c:\users\damia\documents\damian\programacion utn\primer parcial mejorado\primer parcial laboratorio 1 dattilo, damian\validaciones.h
+
+1602684042 source:c:\users\damia\documents\damian\programacion utn\primer parcial mejorado\primer parcial laboratorio 1 dattilo, damian\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+
+1602684268 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1 dattilo, damian\validaciones.h
+
+1602684042 source:c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1 dattilo, damian\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+
+1603065221 source:c:\users\damia\documents\damian\programacion utn\dattilo.damian.pplab1 entregado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"dataStore.h"
+	<string.h>
+	"bicicletas.h"
+	"validaciones.h"
+
+1603065221 c:\users\damia\documents\damian\programacion utn\dattilo.damian.pplab1 entregado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\datastore.h
+
+1603065221 c:\users\damia\documents\damian\programacion utn\dattilo.damian.pplab1 entregado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\bicicletas.h
+
+1603065222 c:\users\damia\documents\damian\programacion utn\dattilo.damian.pplab1 entregado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\validaciones.h
+
+1603065221 source:c:\users\damia\documents\damian\programacion utn\dattilo.damian.pplab1 entregado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+
+1603065221 c:\users\damia\documents\damian\programacion utn\dattilo.damian.pplab1 entregado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\trabajos.h
+
+1603065221 source:c:\users\damia\documents\damian\programacion utn\dattilo.damian.pplab1 entregado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajos.h"
+	"bicicletas.h"
+	"validaciones.h"
+
+1603065222 source:c:\users\damia\documents\damian\programacion utn\dattilo.damian.pplab1 entregado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+
+1603202842 source:c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"dataStore.h"
+	<string.h>
+	"bicicletas.h"
+	"validaciones.h"
+
+1603065221 c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\datastore.h
+
+1603201989 c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\bicicletas.h
+
+1603065222 c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\validaciones.h
+
+1603203151 source:c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+
+1603152452 c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\trabajos.h
+
+1603152544 source:c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajos.h"
+	"bicicletas.h"
+	"validaciones.h"
+
+1603065222 source:c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main\primer parcial laboratorio 1 dattilo, damian\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+
+1603225042 source:c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"dataStore.h"
+	<string.h>
+	"bicicletas.h"
+	"validaciones.h"
+
+1603288864 c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\datastore.h
+
+1603224938 c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\bicicletas.h
+
+1603065222 c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\validaciones.h
+
+1603289120 source:c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+	"informes.h"
+
+1603152452 c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\trabajos.h
+
+1603152544 source:c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajos.h"
+	"bicicletas.h"
+	"validaciones.h"
+
+1603065222 source:c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+
+1603289212 source:c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"informes.h"
+	"bicicletas.h"
+	"trabajos.h"
+	"validaciones.h"
+
+1603281855 c:\users\damia\documents\damian\programacion utn\laboratorio\dattilo.damian.pplab1 actualizado\dattilo.damian.pplab1-main previo\primer parcial laboratorio 1 dattilo, damian\informes.h
+
